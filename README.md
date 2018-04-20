@@ -10,7 +10,7 @@ Below you will find some information on how to perform common tasks.<br>
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
--[Pending Items](#pending-items)
+- [Pending Items](#pending-items)
 
 ## Folder Structure
 
