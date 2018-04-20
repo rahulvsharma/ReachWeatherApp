@@ -4,6 +4,7 @@ Below you will find some information on how to perform common tasks.<br>
 
 ## Table of Contents
 
+- [Setup](#setup)
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm test](#npm-test)
@@ -18,18 +19,21 @@ After creation, your project should look like this:
 ```
 my-app/
   README.md
-  node_modules/
   package.json
   public/
     index.html
     favicon.ico
   src/
-    App.css
-    App.js
+    components/
+      App.js
+      card.js
+      weatherCard.js
+    css/
+      App.css
+      card.css
     App.test.js
     index.css
     index.js
-    logo.svg
 ```
 
 For the project to build, **these files must exist with exact filenames**:
@@ -40,6 +44,10 @@ For the project to build, **these files must exist with exact filenames**:
 
 Only files inside `public` can be used from `public/index.html`.<br>
 Read instructions below for using assets from JavaScript and HTML.
+
+## Setup
+
+Run 'npm install' to setup the project in command prompt at root directory 
 
 ## Available Scripts
 
