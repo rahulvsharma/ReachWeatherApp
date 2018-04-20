@@ -1,0 +1,73 @@
+.humid_style {
+   padding: 14px 14px;
+    float: left;
+    color: #fff !important;
+}
+
+.wind_style {
+      padding: 14px 14px;
+    float: left;
+    color: #fff !important;
+}
+
+.cardWidth {
+    width: 18.5% !important;
+    float: left !important;
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+    background-color: #b31307 !important;
+    color: #fff !important;
+        box-shadow: rgba(0, 0, 0, 0.50) 3px 6px 10px, rgba(0, 0, 0, 0.12) 0px 4px 4px !important;
+    height: 510px !important;
+    margin-bottom: 30px !important; 
+  }
+.imgStyle {
+    max-width: 80px !important;
+    min-width: 80px !important;
+  }
+.hourStyle {
+        float: left !important;
+    color: #fff !important;
+    padding: 10px 12px;
+    font-size: 9pt;
+}
+.hourimgStyle {
+    max-width: 25px !important;
+    min-width: 25px !important;
+    padding: 8px 0px;
+
+  }
+.iconStyle {
+    max-width: 40px !important;
+    min-width: 40px !important;
+}
+
+.float-left {
+    float: left;
+}
+
+.temp {
+    font-size: 41pt;
+    margin: 15px;
+    color: #fff;
+}
+
+.temp:after {
+    content: "\00b0"
+}
+
+.smalltemp:after {
+    content: "\00b0"
+}
+
+.hour_div {
+   
+}
+
+.card-color {
+    padding-bottom: 26px;
+    padding-top: 5px;
+    background-color: #f96666;
+}
+
+
