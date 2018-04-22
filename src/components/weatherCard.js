@@ -13,7 +13,7 @@ class Weather extends Component {
     };
   }
     
-  componentWillMount() {
+  componentDidMount() {
     this.getforecastData();
   }
     
