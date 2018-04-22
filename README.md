@@ -10,6 +10,7 @@ Below you will find some information on how to perform common tasks.<br>
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
+- [Publish URL](#publish-url)
 - [Pending Items](#pending-items)
 
 ## Folder Structure
@@ -87,10 +88,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Publish URL
+
+http://rahulvsharma.github.io/ReactWeatherApp.<br>
+
 ## Pending Items
 
-1. Responsive layout for mobile environment.<br>
-2. Unit test for weather api.
+Responsive layout for mobile environment.<br>
 
 ## Supported Browsers
 
