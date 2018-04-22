@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
-  "homepage": "http://myname.github.io/myapp"
+  "homepage": "http://rahulvsharma.github.io/ReactWeatherApp"
 }

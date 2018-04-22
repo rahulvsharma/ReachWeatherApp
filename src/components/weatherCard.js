@@ -78,7 +78,7 @@ class Weather extends Component {
     
   getforecastData() {
     var self = this;
-    axios.get('http://api.openweathermap.org/data/2.5/forecast?lat=19.0760&lon=72.8777&appid=2c0f2991f85a0e8a38feceee641a1734')
+    axios.get('https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/forecast?lat=19.0760&lon=72.8777&appid=2c0f2991f85a0e8a38feceee641a1734')
              .then(function (response) {
                 if(response.status === 200){
                     console.log(response.data);
